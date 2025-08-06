@@ -148,6 +148,16 @@
   margin: 0 5px; /* Espaçamento entre os botões */
 }
 
+
+
+.barra-botoes .botao-principal {
+  height: 48px; /* ou o valor que corresponda aos menores */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 /* Estilos para o botão de contato e sub-botões */
 .botao-contato {
   position: relative;

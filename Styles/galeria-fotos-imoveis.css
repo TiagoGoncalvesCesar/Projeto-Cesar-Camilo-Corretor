@@ -32,13 +32,17 @@ h1 {
   white-space: nowrap; /* Impede que as imagens quebrem para a próxima linha */
 }
 
-.galeria img {
-  max-width: 90px;
-  height: auto;
+
+.foto-imovel {
+  width: 90px;
+  height: 70px;
+  object-fit: cover;
   border-radius: 5px;
   border: 1px solid #ddd;
   cursor: pointer;
+  margin-right: 5px;
 }
+
 
 /* Lightbox */
 .lightbox {

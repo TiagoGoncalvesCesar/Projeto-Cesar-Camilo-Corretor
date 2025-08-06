@@ -1,27 +1,41 @@
 // Definir um objeto contendo as imagens separadas por imóveis
 const imagens = {
   imovel01: [
+    // Imóveis a venda:
     "assets/imovel-venda/imovel-01/img01.jpg",
-    "assets/imovel-01/img02.jpg",
-    "assets/imovel-01/img03.jpg",
-    "assets/imovel-01/img04.jpg",
-    "assets/imovel-01/img05.jpg",
+    "assets/imovel-venda/imovel-01/img02.jpg",
+    "assets/imovel-venda/imovel-01/img03.jpg",
+    "assets/imovel-venda/imovel-01/img04.jpg",
+    "assets/imovel-venda/imovel-01/img05.jpg",
+    "assets/imovel-venda/imovel-01/img06.jpg",
+    "assets/imovel-venda/imovel-01/img07.jpg",
+    "assets/imovel-venda/imovel-01/img08.jpg",
+    "assets/imovel-venda/imovel-01/img09.jpg",
+    "assets/imovel-venda/imovel-01/img10.jpg",
+    "assets/imovel-venda/imovel-01/img11.jpg",
+    "assets/imovel-venda/imovel-01/img12.jpg",
+    "assets/imovel-venda/imovel-01/img13.jpg",
+    "assets/imovel-venda/imovel-01/img14.jpg",
+    "assets/imovel-venda/imovel-01/img15.jpg",
+    "assets/imovel-venda/imovel-01/img16.jpg",
+    "assets/imovel-venda/imovel-01/img17.jpg",
+   
   ],
   imovel02: [
-    "assets/imovel-02/imagem01.webp",
-    "assets/imovel-02/imagem02.webp",
-    "assets/imovel-02/imagem03.webp",
+    "assets/imovel-venda/imovel-02/imagem01.webp",
+    "assets/imovel-venda/imovel-02/imagem02.webp",
+    "assets/imovel-venda/imovel-02/imagem03.webp",
   ],
    // Adicione mais imóveis conforme necessário
   imovel03: [
-    "assets/imovel-03/img01-03.jpg",
-    "assets/imovel-03/img02-03.jpeg",
-    "assets/imovel-03/img03-03.jpg"
+    "assets/imovel-venda/imovel-03/img01-03.jpg",
+    "assets/imovel-venda/imovel-03/img02-03.jpeg",
+    "assets/imovel-venda/imovel-03/img03-03.jpg"
   ], 
   imovel04: [
-    "assets/imovel-04/img01-04.jpg",
-    "assets/imovel-04/img02-04.jpg",
-    "assets/imovel-04/img03-04.jpg"
+    "assets/imovel-venda/imovel-04/img01-04.jpg",
+    "assets/imovel-venda/limovel-04/img02-04.jpg",
+    "assets/imovel-venda/imovel-04/img03-04.jpg"
   ]
 };
 
