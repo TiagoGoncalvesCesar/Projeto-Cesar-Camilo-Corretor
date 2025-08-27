@@ -40,3 +40,4 @@ document.addEventListener("DOMContentLoaded", function () {
     input.setAttribute('min', hoje);
   });
 });
+

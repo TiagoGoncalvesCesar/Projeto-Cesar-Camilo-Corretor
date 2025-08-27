@@ -86,3 +86,4 @@ const imagensVenda = {
    "assets/imovel-venda/imovel-04/img19.jpeg",
   ]
 };
+
